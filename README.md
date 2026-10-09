@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arham
 
-<!--
-**Arham-Nadeem/Arham-Nadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Illinois Chicago with experience in financial data analytics, software development, and business-focused data projects.
 
-Here are some ideas to get you started:
+## Interests
+- Data Analytics
+- Business Intelligence
+- Financial Analytics
+- Business Systems
+- FinTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- Java
+- C++
+- Power BI
+- JavaScript
+- Git
+
+## Currently
+- Graduating December 2026
+- Building data and analytics projects
+- Exploring full-time analyst and technology roles
