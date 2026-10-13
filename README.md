@@ -1,6 +1,6 @@
 # Hi, I'm Arham
 
-I'm a Computer Science student at the University of Illinois Chicago with experience in financial data analytics, software development, and business-focused data projects.
+I'm a Computer Science student with a Finance minor at the University of Illinois Chicago with experience in financial data analytics, software development, and business-focused data projects.
 
 ## Interests
 - Data Analytics
